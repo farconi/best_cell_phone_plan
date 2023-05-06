@@ -1,6 +1,6 @@
 # Which is the best cell phone plan?
 
-The telecommunications company Megaline offers its customers Surf and Ultimate prepaid cell phone plans.  The commercial department wants to know which of the plans give the most revenue in order to adjust the advertising budget.
+The telecommunications company Megaline offers its customers Surf and Ultimate prepaid cell phone plans.  We are going to analyse data and inform the commercial department which of the plans give the most revenue in order to adjust the advertising budget.
 
 
 | Project name | Description | Libraries used | 
